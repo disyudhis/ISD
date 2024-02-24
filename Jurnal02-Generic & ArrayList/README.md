@@ -17,7 +17,6 @@ Dan yang terakhir buat Main class untuk memanggil seluruh method dan function ya
 
 Isi dari main, harus menunjukkan output seperti dibawah 
 .......
-=================================
 
 Mungkin, dengan menambahkan ekspetasi output, jadi lebih mempermudah kita untuk mengerjakan jurnal.
 
